@@ -1,0 +1,7 @@
+executable              = eda.py
+log                     = eda.log
+output                  = eda.out
+error                   = eda.err
+should_transfer_files   = Yes
+when_to_transfer_output = ON_EXIT
+queue

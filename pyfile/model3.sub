@@ -1,0 +1,7 @@
+executable              = model3.py
+log                     = model3.log
+output                  = model3.out
+error                   = model3.err
+should_transfer_files   = Yes
+when_to_transfer_output = ON_EXIT
+queue

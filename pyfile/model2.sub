@@ -1,0 +1,7 @@
+executable              = model2.py
+log                     = model2.log
+output                  = model2.out
+error                   = model2.err
+should_transfer_files   = Yes
+when_to_transfer_output = ON_EXIT
+queue
